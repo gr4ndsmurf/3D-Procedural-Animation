@@ -8,9 +8,11 @@
 # Features
 - Player's hand: Dynamically generated animations based on environmental interactions and player input.
 
-<div align="center">
-<video src='Procedural-Animation-Video.mp4' width=480/>
-</div>
+
+
+https://github.com/gr4ndsmurf/3D-Procedural-Animation/assets/83185792/410d6f58-546d-46e6-982d-7c45ac7b2bb1
+
+
 
 # Coming Soon
 - Mech movement.
